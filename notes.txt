@@ -1,0 +1,3 @@
+N1|Python|Learn loops
+N2|Maths|Revise algebra
+N3|Python Loops|loop revise

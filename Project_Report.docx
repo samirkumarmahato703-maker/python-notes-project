@@ -1,0 +1,36 @@
+DIGITAL NOTES MANAGEMENT SYSTEM
+A Python Project
+
+Name: Samir Kumar Mahato
+ERP: 00318
+
+1. INTRODUCTION
+Digital Notes Management System ek simple Python program hai. Isme user apne notes ko save, dekh, search, edit aur delete kar sakta hai. Saare notes http://notes.txt file me save hote hai, taaki program band karne ke baad bhi data rahe.
+
+2. OBJECTIVE
+1. Notes ko digital tarike se manage karna
+2. Notes ko file me permanently save karna
+3. User ko easy menu dena
+
+3. REQUIREMENTS
+Language: Python
+Software: VS Code
+File: http://notes.txt for data storage
+
+4. FEATURES
+1. Add Note - Naya note add karna
+2. View All Notes - Saare notes dekhna
+3. Search Note - Kisi word se note dhundhna
+4. Edit Note - Purane note ko badalna
+5. Delete Note - Note ko hatana
+6. Exit - Program band karna
+
+5. HOW IT WORKS
+User menu se option choose karta hai. Agar Add Note choose karega to note http://notes.txt me save ho jayega. Search karne par program file me se us word wala note dhundh kar dikhata hai.
+
+6. CONCLUSION
+Is project se mujhe Python me file handling, loop, if-else aur menu-driven program banana seekhne ko mila. Ye system daily notes manage karne ke liye useful hai.
+
+Submitted By:
+Samir Kumar Mahato
+ERP: 00318
